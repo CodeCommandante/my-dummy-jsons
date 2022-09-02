@@ -1,3 +1,5 @@
 {
-  "AU_biblio": "dummy val"
+  "posts": [
+    "AU_biblio": {"dummykey": "dummyval"}
+  ]
 }
