@@ -1,8 +1,2369 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "GDAppNum": "AU2020203489",
+      "bibliographicData": {
+        "appNumber": "2020203489",
+        "applicant": {
+          "address": "Indiana 46580 United States of America",
+          "name": "Zimmer US, Inc."
+        },
+        "effectiveDate": "2017-11-03",
+        "expiryDate": "2037-11-03",
+        "filingDate": "2020-05-27",
+        "inventors": [
+          {
+            "name": "Wells, Richard"
+          },
+          {
+            "name": "Price, Timothy R."
+          },
+          {
+            "name": "Spooner, Ted"
+          },
+          {
+            "name": "Van Andel, Dave"
+          },
+          {
+            "name": "Dittmer, Travis"
+          },
+          {
+            "name": "Kotwick, John"
+          },
+          {
+            "name": "Leighton, Jason"
+          }
+        ],
+        "priorityDetails": [
+          {
+            "filingDate": "2016-12-30",
+            "priorityDate": "",
+            "priorityNumber": "US62/440,588",
+            "type": "Convention"
+          },
+          {
+            "filingDate": "2016-11-11",
+            "priorityDate": "",
+            "priorityNumber": "US62/421,001",
+            "type": "Convention"
+          },
+          {
+            "filingDate": "2016-11-03",
+            "priorityDate": "",
+            "priorityNumber": "US62/416,869",
+            "type": "Convention"
+          }
+        ],
+        "status": "GRANTED",
+        "title": "AUGMENTED REALITY THERAPEUTIC MOVEMENT DISPLAY AND GESTURE ANALYZER"
+      },
+      "documents": [
+        {
+          "code": "DRAWING",
+          "date": "2020-05-27",
+          "title": "DRAWING"
+        },
+        {
+          "code": "DRAWING",
+          "date": "2020-05-27",
+          "title": "DRAWING"
+        },
+        {
+          "code": "DESCRIPTION",
+          "date": "2020-05-27",
+          "title": "Description"
+        },
+        {
+          "code": "CLAIM",
+          "date": "2020-05-27",
+          "title": "Claims"
+        },
+        {
+          "code": "ABSTRACT",
+          "date": "2020-05-27",
+          "title": "Abstract"
+        },
+        {
+          "code": "ABSTRACT",
+          "date": "2020-05-27",
+          "title": "Abstract"
+        },
+        {
+          "code": "EXAM CORRO",
+          "date": "2021-02-19",
+          "title": "EXAM CORRO"
+        },
+        {
+          "code": "AMENDMENT",
+          "date": "2021-10-26",
+          "title": "Amendment"
+        },
+        {
+          "code": "AMENDMENT",
+          "date": "2021-10-26",
+          "title": "Amendment"
+        },
+        {
+          "code": "AMENDMENT",
+          "date": "2021-10-26",
+          "title": "Amendment"
+        },
+        {
+          "code": "AMENDMENT",
+          "date": "2021-10-26",
+          "title": "Amendment"
+        },
+        {
+          "code": "AMENDMENT",
+          "date": "2021-10-26",
+          "title": "Amendment"
+        },
+        {
+          "code": "AMENDMENT",
+          "date": "2021-10-26",
+          "title": "Amendment"
+        },
+        {
+          "code": "AMENDMENT",
+          "date": "2021-10-26",
+          "title": "Amendment"
+        },
+        {
+          "code": "DESCRIPTION",
+          "date": "2021-11-23",
+          "title": "Description"
+        },
+        {
+          "code": "CLAIM",
+          "date": "2021-11-23",
+          "title": "Claims"
+        },
+        {
+          "code": "CORRO OUT",
+          "date": "2021-11-24",
+          "title": "CORRO OUT"
+        }
+      ],
+      "errors": [],
+      "multipleSources": [
+        {
+          "GDAppNum": "AU2020203489",
+          "documents": [
+            {
+              "code": "DRAWING",
+              "date": "2020-05-27",
+              "title": "DRAWING"
+            },
+            {
+              "code": "DRAWING",
+              "date": "2020-05-27",
+              "title": "DRAWING"
+            },
+            {
+              "code": "DESCRIPTION",
+              "date": "2020-05-27",
+              "title": "Description"
+            },
+            {
+              "code": "CLAIM",
+              "date": "2020-05-27",
+              "title": "Claims"
+            },
+            {
+              "code": "ABSTRACT",
+              "date": "2020-05-27",
+              "title": "Abstract"
+            },
+            {
+              "code": "ABSTRACT",
+              "date": "2020-05-27",
+              "title": "Abstract"
+            },
+            {
+              "code": "EXAM CORRO",
+              "date": "2021-02-19",
+              "title": "EXAM CORRO"
+            },
+            {
+              "code": "AMENDMENT",
+              "date": "2021-10-26",
+              "title": "Amendment"
+            },
+            {
+              "code": "AMENDMENT",
+              "date": "2021-10-26",
+              "title": "Amendment"
+            },
+            {
+              "code": "AMENDMENT",
+              "date": "2021-10-26",
+              "title": "Amendment"
+            },
+            {
+              "code": "AMENDMENT",
+              "date": "2021-10-26",
+              "title": "Amendment"
+            },
+            {
+              "code": "AMENDMENT",
+              "date": "2021-10-26",
+              "title": "Amendment"
+            },
+            {
+              "code": "AMENDMENT",
+              "date": "2021-10-26",
+              "title": "Amendment"
+            },
+            {
+              "code": "AMENDMENT",
+              "date": "2021-10-26",
+              "title": "Amendment"
+            },
+            {
+              "code": "DESCRIPTION",
+              "date": "2021-11-23",
+              "title": "Description"
+            },
+            {
+              "code": "CLAIM",
+              "date": "2021-11-23",
+              "title": "Claims"
+            },
+            {
+              "code": "CORRO OUT",
+              "date": "2021-11-24",
+              "title": "CORRO OUT"
+            }
+          ],
+          "name": "Global Dossier",
+          "raw": {
+            "corrAppNum": "AU2020203489",
+            "country": "AU",
+            "id": "AU2020203489",
+            "internal": "false",
+            "list": [
+              {
+                "appDate": 1509681600000,
+                "appDateStr": "11/03/2017",
+                "appNum": "15803515",
+                "applicantNames": null,
+                "countryCode": "US",
+                "docList": null,
+                "docListMsg": null,
+                "docNum": {
+                  "country": "US",
+                  "date": "11/03/2017",
+                  "docNumber": "201715803515",
+                  "format": "original",
+                  "kindCode": "A"
+                },
+                "ip5": true,
+                "kindCode": "A",
+                "priorityClaimList": [
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "15803515",
+                    "kindCode": "A"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A1",
+                    "pubCountry": "US",
+                    "pubDate": 1525320000000,
+                    "pubDateStr": "05/03/2018",
+                    "pubNum": "20180120947"
+                  },
+                  {
+                    "kindCode": "B2",
+                    "pubCountry": "US",
+                    "pubDate": 1582606800000,
+                    "pubDateStr": "02/25/2020",
+                    "pubNum": "10572733"
+                  }
+                ],
+                "title": null
+              },
+              {
+                "appDate": 1509681600000,
+                "appDateStr": "11/03/2017",
+                "appNum": "PCT/US17/59991",
+                "applicantNames": null,
+                "countryCode": "US",
+                "docList": null,
+                "docListMsg": null,
+                "docNum": {
+                  "country": "US",
+                  "date": "11/03/2017",
+                  "docNumber": "2017059991",
+                  "format": "original",
+                  "kindCode": "W"
+                },
+                "ip5": true,
+                "kindCode": "W",
+                "priorityClaimList": [
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A1",
+                    "pubCountry": "WO",
+                    "pubDate": 1526011200000,
+                    "pubDateStr": "05/11/2018",
+                    "pubNum": "2018085691"
+                  }
+                ],
+                "title": null
+              },
+              {
+                "appDate": 1509681600000,
+                "appDateStr": "11/03/2017",
+                "appNum": "17801554",
+                "applicantNames": null,
+                "countryCode": "EP",
+                "docList": null,
+                "docListMsg": null,
+                "docNum": {
+                  "country": "EP",
+                  "date": "11/03/2017",
+                  "docNumber": "17801554",
+                  "format": "docdb",
+                  "kindCode": "A"
+                },
+                "ip5": true,
+                "kindCode": "A",
+                "priorityClaimList": [
+                  {
+                    "country": "US",
+                    "docNumber": "PCT/US17/59991",
+                    "kindCode": "W"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A1",
+                    "pubCountry": "EP",
+                    "pubDate": 1568174400000,
+                    "pubDateStr": "09/11/2019",
+                    "pubNum": "3535645"
+                  }
+                ],
+                "title": null
+              },
+              {
+                "appDate": 1509681600000,
+                "appDateStr": "11/03/2017",
+                "appNum": "201780081935",
+                "applicantNames": null,
+                "countryCode": "CN",
+                "docList": null,
+                "docListMsg": null,
+                "docNum": {
+                  "country": "CN",
+                  "date": "11/03/2017",
+                  "docNumber": "201780081935",
+                  "format": "docdb",
+                  "kindCode": "A"
+                },
+                "ip5": true,
+                "kindCode": "A",
+                "priorityClaimList": [
+                  {
+                    "country": "US",
+                    "docNumber": "PCT/US17/59991",
+                    "kindCode": "W"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A",
+                    "pubCountry": "CN",
+                    "pubDate": 1565668800000,
+                    "pubDateStr": "08/13/2019",
+                    "pubNum": "110121748"
+                  },
+                  {
+                    "kindCode": "B",
+                    "pubCountry": "CN",
+                    "pubDate": 1646974800000,
+                    "pubDateStr": "03/11/2022",
+                    "pubNum": "110121748"
+                  }
+                ],
+                "title": null
+              },
+              {
+                "appDate": 1509681600000,
+                "appDateStr": "11/03/2017",
+                "appNum": "3153493",
+                "applicantNames": null,
+                "countryCode": "CA",
+                "docList": null,
+                "docListMsg": null,
+                "docNum": {
+                  "country": "CA",
+                  "date": "11/03/2017",
+                  "docNumber": "3153493",
+                  "format": "docdb",
+                  "kindCode": "A"
+                },
+                "ip5": false,
+                "kindCode": "A",
+                "priorityClaimList": [
+                  {
+                    "country": "CA",
+                    "docNumber": "3042535",
+                    "kindCode": "A"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A1",
+                    "pubCountry": "CA",
+                    "pubDate": 1526011200000,
+                    "pubDateStr": "05/11/2018",
+                    "pubNum": "3153493"
+                  }
+                ],
+                "title": null
+              },
+              {
+                "appDate": 1509681600000,
+                "appDateStr": "11/03/2017",
+                "appNum": "15803499",
+                "applicantNames": null,
+                "countryCode": "US",
+                "docList": null,
+                "docListMsg": null,
+                "docNum": {
+                  "country": "US",
+                  "date": "11/03/2017",
+                  "docNumber": "201715803499",
+                  "format": "original",
+                  "kindCode": "A"
+                },
+                "ip5": true,
+                "kindCode": "A",
+                "priorityClaimList": [
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "15803499",
+                    "kindCode": "A"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A1",
+                    "pubCountry": "US",
+                    "pubDate": 1525320000000,
+                    "pubDateStr": "05/03/2018",
+                    "pubNum": "20180121728"
+                  },
+                  {
+                    "kindCode": "B2",
+                    "pubCountry": "US",
+                    "pubDate": 1586836800000,
+                    "pubDateStr": "04/14/2020",
+                    "pubNum": "10621436"
+                  }
+                ],
+                "title": null
+              },
+              {
+                "appDate": 1509681600000,
+                "appDateStr": "11/03/2017",
+                "appNum": "202210186477",
+                "applicantNames": null,
+                "countryCode": "CN",
+                "docList": null,
+                "docListMsg": null,
+                "docNum": {
+                  "country": "CN",
+                  "date": "11/03/2017",
+                  "docNumber": "202210186477",
+                  "format": "docdb",
+                  "kindCode": "A"
+                },
+                "ip5": true,
+                "kindCode": "A",
+                "priorityClaimList": [
+                  {
+                    "country": "US",
+                    "docNumber": "PCT/US17/59991",
+                    "kindCode": "W"
+                  },
+                  {
+                    "country": "CN",
+                    "docNumber": "201780081935",
+                    "kindCode": "A"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A",
+                    "pubCountry": "CN",
+                    "pubDate": 1653624000000,
+                    "pubDateStr": "05/27/2022",
+                    "pubNum": "114550874"
+                  }
+                ],
+                "title": null
+              },
+              {
+                "appDate": 1509681600000,
+                "appDateStr": "11/03/2017",
+                "appNum": "2017355505",
+                "applicantNames": null,
+                "countryCode": "AU",
+                "docList": null,
+                "docListMsg": null,
+                "docNum": {
+                  "country": "AU",
+                  "date": "11/03/2017",
+                  "docNumber": "2017355505",
+                  "format": "docdb",
+                  "kindCode": "A"
+                },
+                "ip5": false,
+                "kindCode": "A",
+                "priorityClaimList": [
+                  {
+                    "country": "US",
+                    "docNumber": "PCT/US17/59991",
+                    "kindCode": "W"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A1",
+                    "pubCountry": "AU",
+                    "pubDate": 1559188800000,
+                    "pubDateStr": "05/30/2019",
+                    "pubNum": "2017355505"
+                  },
+                  {
+                    "kindCode": "B2",
+                    "pubCountry": "AU",
+                    "pubDate": 1582779600000,
+                    "pubDateStr": "02/27/2020",
+                    "pubNum": "2017355505"
+                  }
+                ],
+                "title": null
+              },
+              {
+                "appDate": 1509681600000,
+                "appDateStr": "11/03/2017",
+                "appNum": "3042535",
+                "applicantNames": null,
+                "countryCode": "CA",
+                "docList": null,
+                "docListMsg": null,
+                "docNum": {
+                  "country": "CA",
+                  "date": "11/03/2017",
+                  "docNumber": "3042535",
+                  "format": "docdb",
+                  "kindCode": "A"
+                },
+                "ip5": false,
+                "kindCode": "A",
+                "priorityClaimList": [
+                  {
+                    "country": "US",
+                    "docNumber": "PCT/US17/59991",
+                    "kindCode": "W"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A1",
+                    "pubCountry": "CA",
+                    "pubDate": 1526011200000,
+                    "pubDateStr": "05/11/2018",
+                    "pubNum": "3042535"
+                  },
+                  {
+                    "kindCode": "C",
+                    "pubCountry": "CA",
+                    "pubDate": 1652760000000,
+                    "pubDateStr": "05/17/2022",
+                    "pubNum": "3042535"
+                  }
+                ],
+                "title": null
+              },
+              {
+                "appDate": 1583899200000,
+                "appDateStr": "03/11/2020",
+                "appNum": "16815466",
+                "applicantNames": null,
+                "countryCode": "US",
+                "docList": null,
+                "docListMsg": null,
+                "docNum": {
+                  "country": "US",
+                  "date": "03/11/2020",
+                  "docNumber": "202016815466",
+                  "format": "original",
+                  "kindCode": "A"
+                },
+                "ip5": true,
+                "kindCode": "A",
+                "priorityClaimList": [
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "15803499",
+                    "kindCode": "A"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "16815466",
+                    "kindCode": "A"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A1",
+                    "pubCountry": "US",
+                    "pubDate": 1599105600000,
+                    "pubDateStr": "09/03/2020",
+                    "pubNum": "20200279112"
+                  },
+                  {
+                    "kindCode": "B2",
+                    "pubCountry": "US",
+                    "pubDate": 1637038800000,
+                    "pubDateStr": "11/16/2021",
+                    "pubNum": "11176376"
+                  }
+                ],
+                "title": null
+              },
+              {
+                "appDate": 1590552000000,
+                "appDateStr": "05/27/2020",
+                "appNum": "2020203489",
+                "applicantNames": null,
+                "countryCode": "AU",
+                "docList": {
+                  "applicantNames": [
+                    "Zimmer US, Inc., "
+                  ],
+                  "country": "AU",
+                  "docNumber": "2020203489.A",
+                  "docs": [
+                    {
+                      "docCode": "CORRO OUT",
+                      "docCodeDesc": "No document group defined for this document",
+                      "docDesc": "CORRO OUT",
+                      "docFormat": "PDF",
+                      "docGroupCode": "unknown",
+                      "docId": "29041982",
+                      "legalDate": 1637730000000,
+                      "legalDateStr": "11/24/2021",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "CLAIM",
+                      "docCodeDesc": "Application Documents",
+                      "docDesc": "Claims",
+                      "docFormat": "PDF",
+                      "docGroupCode": "1",
+                      "docId": "29031085",
+                      "legalDate": 1637643600000,
+                      "legalDateStr": "11/23/2021",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "DESCRIPTION",
+                      "docCodeDesc": "Application Documents",
+                      "docDesc": "Description",
+                      "docFormat": "PDF",
+                      "docGroupCode": "1",
+                      "docId": "29030958",
+                      "legalDate": 1637643600000,
+                      "legalDateStr": "11/23/2021",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "AMENDMENT",
+                      "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                      "docDesc": "Amendment",
+                      "docFormat": "PDF",
+                      "docGroupCode": "4",
+                      "docId": "28885902",
+                      "legalDate": 1635220800000,
+                      "legalDateStr": "10/26/2021",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "AMENDMENT",
+                      "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                      "docDesc": "Amendment",
+                      "docFormat": "PDF",
+                      "docGroupCode": "4",
+                      "docId": "28885904",
+                      "legalDate": 1635220800000,
+                      "legalDateStr": "10/26/2021",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "AMENDMENT",
+                      "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                      "docDesc": "Amendment",
+                      "docFormat": "PDF",
+                      "docGroupCode": "4",
+                      "docId": "28885905",
+                      "legalDate": 1635220800000,
+                      "legalDateStr": "10/26/2021",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "AMENDMENT",
+                      "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                      "docDesc": "Amendment",
+                      "docFormat": "PDF",
+                      "docGroupCode": "4",
+                      "docId": "28885906",
+                      "legalDate": 1635220800000,
+                      "legalDateStr": "10/26/2021",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "AMENDMENT",
+                      "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                      "docDesc": "Amendment",
+                      "docFormat": "PDF",
+                      "docGroupCode": "4",
+                      "docId": "28885907",
+                      "legalDate": 1635220800000,
+                      "legalDateStr": "10/26/2021",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "AMENDMENT",
+                      "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                      "docDesc": "Amendment",
+                      "docFormat": "PDF",
+                      "docGroupCode": "4",
+                      "docId": "28885903",
+                      "legalDate": 1635220800000,
+                      "legalDateStr": "10/26/2021",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "AMENDMENT",
+                      "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                      "docDesc": "Amendment",
+                      "docFormat": "PDF",
+                      "docGroupCode": "4",
+                      "docId": "28885908",
+                      "legalDate": 1635220800000,
+                      "legalDateStr": "10/26/2021",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "EXAM CORRO",
+                      "docCodeDesc": "No document group defined for this document",
+                      "docDesc": "EXAM CORRO",
+                      "docFormat": "PDF",
+                      "docGroupCode": "unknown",
+                      "docId": "27504175",
+                      "legalDate": 1613710800000,
+                      "legalDateStr": "02/19/2021",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "ABSTRACT",
+                      "docCodeDesc": "Application Documents",
+                      "docDesc": "Abstract",
+                      "docFormat": "PDF",
+                      "docGroupCode": "1",
+                      "docId": "25248770",
+                      "legalDate": 1590552000000,
+                      "legalDateStr": "05/27/2020",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "ABSTRACT",
+                      "docCodeDesc": "Application Documents",
+                      "docDesc": "Abstract",
+                      "docFormat": "PDF",
+                      "docGroupCode": "1",
+                      "docId": "29035291",
+                      "legalDate": 1590552000000,
+                      "legalDateStr": "05/27/2020",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "CLAIM",
+                      "docCodeDesc": "Application Documents",
+                      "docDesc": "Claims",
+                      "docFormat": "PDF",
+                      "docGroupCode": "1",
+                      "docId": "25248772",
+                      "legalDate": 1590552000000,
+                      "legalDateStr": "05/27/2020",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "DESCRIPTION",
+                      "docCodeDesc": "Application Documents",
+                      "docDesc": "Description",
+                      "docFormat": "PDF",
+                      "docGroupCode": "1",
+                      "docId": "25248771",
+                      "legalDate": 1590552000000,
+                      "legalDateStr": "05/27/2020",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "DRAWING",
+                      "docCodeDesc": "Application Documents",
+                      "docDesc": "DRAWING",
+                      "docFormat": "PDF",
+                      "docGroupCode": "1",
+                      "docId": "25248769",
+                      "legalDate": 1590552000000,
+                      "legalDateStr": "05/27/2020",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    },
+                    {
+                      "docCode": "DRAWING",
+                      "docCodeDesc": "Application Documents",
+                      "docDesc": "DRAWING",
+                      "docFormat": "PDF",
+                      "docGroupCode": "1",
+                      "docId": "29035293",
+                      "legalDate": 1590552000000,
+                      "legalDateStr": "05/27/2020",
+                      "numberOfPages": 0,
+                      "shareable": false
+                    }
+                  ],
+                  "message": null,
+                  "oaIndCount": 0,
+                  "officeActionDocs": [],
+                  "title": "AUGMENTED REALITY THERAPEUTIC MOVEMENT DISPLAY AND GESTURE ANALYZER"
+                },
+                "docListMsg": null,
+                "docNum": {
+                  "country": "AU",
+                  "date": "05/27/2020",
+                  "docNumber": "2020203489",
+                  "format": "docdb",
+                  "kindCode": "A"
+                },
+                "ip5": false,
+                "kindCode": "A",
+                "priorityClaimList": [
+                  {
+                    "country": "US",
+                    "docNumber": "PCT/US17/59991",
+                    "kindCode": "W"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "AU",
+                    "docNumber": "2020203489",
+                    "kindCode": "A"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "AU",
+                    "docNumber": "2017355505",
+                    "kindCode": "A"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A1",
+                    "pubCountry": "AU",
+                    "pubDate": 1592452800000,
+                    "pubDateStr": "06/18/2020",
+                    "pubNum": "2020203489"
+                  },
+                  {
+                    "kindCode": "B2",
+                    "pubCountry": "AU",
+                    "pubDate": 1639026000000,
+                    "pubDateStr": "12/09/2021",
+                    "pubNum": "2020203489"
+                  }
+                ],
+                "title": null
+              },
+              {
+                "appDate": 1645765200000,
+                "appDateStr": "02/25/2022",
+                "appNum": "2022201300",
+                "applicantNames": null,
+                "countryCode": "AU",
+                "docList": null,
+                "docListMsg": null,
+                "docNum": {
+                  "country": "AU",
+                  "date": "02/25/2022",
+                  "docNumber": "2022201300",
+                  "format": "docdb",
+                  "kindCode": "A"
+                },
+                "ip5": false,
+                "kindCode": "A",
+                "priorityClaimList": [
+                  {
+                    "country": "US",
+                    "docNumber": "PCT/US17/59991",
+                    "kindCode": "W"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62421001",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "AU",
+                    "docNumber": "2020203489",
+                    "kindCode": "A"
+                  },
+                  {
+                    "country": "AU",
+                    "docNumber": "2022201300",
+                    "kindCode": "A"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62416869",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "US",
+                    "docNumber": "62440588",
+                    "kindCode": "P"
+                  },
+                  {
+                    "country": "AU",
+                    "docNumber": "2017355505",
+                    "kindCode": "A"
+                  }
+                ],
+                "pubList": [
+                  {
+                    "kindCode": "A1",
+                    "pubCountry": "AU",
+                    "pubDate": 1648094400000,
+                    "pubDateStr": "03/24/2022",
+                    "pubNum": "2022201300"
+                  }
+                ],
+                "title": null
+              }
+            ],
+            "type": "application"
+          }
+        },
+        {
+          "bibliographicData": {
+            "appNumber": "2020203489",
+            "applicant": {
+              "address": "Indiana 46580 United States of America",
+              "name": "Zimmer US, Inc."
+            },
+            "effectiveDate": "2017-11-03",
+            "expiryDate": "2037-11-03",
+            "filingDate": "2020-05-27",
+            "inventors": [
+              {
+                "name": "Wells, Richard"
+              },
+              {
+                "name": "Price, Timothy R."
+              },
+              {
+                "name": "Spooner, Ted"
+              },
+              {
+                "name": "Van Andel, Dave"
+              },
+              {
+                "name": "Dittmer, Travis"
+              },
+              {
+                "name": "Kotwick, John"
+              },
+              {
+                "name": "Leighton, Jason"
+              }
+            ],
+            "priorityDetails": [
+              {
+                "filingDate": "2016-12-30",
+                "priorityDate": "",
+                "priorityNumber": "US62/440,588",
+                "type": "Convention"
+              },
+              {
+                "filingDate": "2016-11-11",
+                "priorityDate": "",
+                "priorityNumber": "US62/421,001",
+                "type": "Convention"
+              },
+              {
+                "filingDate": "2016-11-03",
+                "priorityDate": "",
+                "priorityNumber": "US62/416,869",
+                "type": "Convention"
+              }
+            ],
+            "status": "GRANTED",
+            "title": "AUGMENTED REALITY THERAPEUTIC MOVEMENT DISPLAY AND GESTURE ANALYZER"
+          },
+          "documents": [
+            {
+              "date": "2022-03-24",
+              "status": "FILED",
+              "title": "Standard Patent Certificate 24-03-2022",
+              "type": "CORRO OUT"
+            },
+            {
+              "date": "2022-03-24",
+              "status": "FILED",
+              "title": "Standard Patent Notice of Grant 24-03-2022",
+              "type": "CORRO OUT"
+            },
+            {
+              "date": "2021-11-24",
+              "status": "FILED",
+              "title": "Cover Sheet STD PAT ACCPT 24-11-2021 AMCZ-2110655688",
+              "type": "OTHER"
+            },
+            {
+              "date": "2021-11-24",
+              "status": "FILED",
+              "title": "ITP_0000016631.pdf",
+              "type": "CORRO OUT"
+            },
+            {
+              "date": "2021-11-24",
+              "status": "FILED",
+              "title": "Notice of Acceptance and Bibliographic Attachment 24-11-2021",
+              "type": "CORRO OUT"
+            },
+            {
+              "date": "2021-11-23",
+              "status": "ACCEPTED",
+              "title": "Claim as Accepted",
+              "type": "CLAIM"
+            },
+            {
+              "date": "2021-11-23",
+              "status": "ACCEPTED",
+              "title": "Description as Accepted",
+              "type": "DESCRIPTION"
+            },
+            {
+              "date": "2021-11-17",
+              "status": "FILED",
+              "title": "FER_EP3535645 (25 MAy 2021)",
+              "type": "SEARCH RESULTS"
+            },
+            {
+              "date": "2021-11-17",
+              "status": "FILED",
+              "title": "FER_US20200279112(allowed)",
+              "type": "SEARCH RESULTS"
+            },
+            {
+              "date": "2021-10-26",
+              "status": "FILED",
+              "title": "Amendment 26-10-2021 APSZ-2110567074",
+              "type": "AMENDMENT"
+            },
+            {
+              "date": "2021-10-26",
+              "status": "FILED",
+              "title": "Amendment 26-10-2021 APSZ-2110567074",
+              "type": "AMENDMENT"
+            },
+            {
+              "date": "2021-10-26",
+              "status": "FILED",
+              "title": "Amendment 26-10-2021 APSZ-2110567074",
+              "type": "AMENDMENT"
+            },
+            {
+              "date": "2021-10-26",
+              "status": "FILED",
+              "title": "Amendment 26-10-2021 APSZ-2110567074",
+              "type": "AMENDMENT"
+            },
+            {
+              "date": "2021-10-26",
+              "status": "FILED",
+              "title": "Amendment 26-10-2021 APSZ-2110567074",
+              "type": "AMENDMENT"
+            },
+            {
+              "date": "2021-10-26",
+              "status": "FILED",
+              "title": "Amendment 26-10-2021 APSZ-2110567074",
+              "type": "AMENDMENT"
+            },
+            {
+              "date": "2021-10-26",
+              "status": "FILED",
+              "title": "Exam Response 26 Oct 2021 APSZ-2110567074 OTHER",
+              "type": "AMENDMENT"
+            },
+            {
+              "date": "2021-10-05",
+              "status": "FILED",
+              "title": "Cover Sheet CON REN PMNT 05-10-2021 AMCZ-2110506499",
+              "type": "OTHER"
+            },
+            {
+              "date": "2021-10-05",
+              "status": "FILED",
+              "title": "Renewal Advice 05-10-2021",
+              "type": "CORRO OUT"
+            },
+            {
+              "date": "2021-02-19",
+              "status": "FILED",
+              "title": "EP FER 3535645 (up to 15 Jan)",
+              "type": "SEARCH RESULTS"
+            },
+            {
+              "date": "2021-02-19",
+              "status": "FILED",
+              "title": "Examination Report No. 1",
+              "type": "EXAM CORRO"
+            },
+            {
+              "date": "2021-02-19",
+              "status": "FILED",
+              "title": "IPRP1 (PCT/US2017/059991)",
+              "type": "SEARCH RESULTS"
+            },
+            {
+              "date": "2021-02-19",
+              "status": "FILED",
+              "title": "US FER 10572733B2 (up to 17 Jan 2020)",
+              "type": "SEARCH RESULTS"
+            },
+            {
+              "date": "2021-02-19",
+              "status": "FILED",
+              "title": "US FER 10621436 (up to 22 Jan 2020).pdf",
+              "type": "SEARCH RESULTS"
+            },
+            {
+              "date": "2021-02-19",
+              "status": "FILED",
+              "title": "US FER 20200279112 (up to 30 Nov 2020)",
+              "type": "SEARCH RESULTS"
+            },
+            {
+              "date": "2020-07-31",
+              "status": "FILED",
+              "title": "Amend Ant Exam Report 31-07-2020 SPBM-0002297670",
+              "type": "AMENDMENT"
+            },
+            {
+              "date": "2020-07-31",
+              "status": "FILED",
+              "title": "Amend Ant Exam Report 31-07-2020 SPBM-0002297670",
+              "type": "AMENDMENT"
+            },
+            {
+              "date": "2020-07-31",
+              "status": "FILED",
+              "title": "Amend Ant Exam Report 31-07-2020 SPBM-0002297670",
+              "type": "AMENDMENT"
+            },
+            {
+              "date": "2020-07-31",
+              "status": "FILED",
+              "title": "Amend Ant Exam Report 31-07-2020 SPBM-0002297670",
+              "type": "AMENDMENT"
+            },
+            {
+              "date": "2020-07-31",
+              "status": "FILED",
+              "title": "Cover Sheet Req Full Exam and Amend Ant Exam Report and Req Postpone Acc 31-07-2020 SPBM-0002297670",
+              "type": "OTHER"
+            },
+            {
+              "date": "2020-07-31",
+              "status": "FILED",
+              "title": "Note Entlmnt 31-07-2020 SPBM-0002297670",
+              "type": "NOTE ENTLMNT"
+            },
+            {
+              "date": "2020-07-31",
+              "status": "FILED",
+              "title": "Req Full Exam and Amend Ant Exam Report and Req Postpone Acc 31-07-2020 SPBM-0002297670",
+              "type": "OTHER"
+            },
+            {
+              "date": "2020-07-31",
+              "status": "FILED",
+              "title": "Request for Full Standard Examination Acknowledgment 31-07-2020",
+              "type": "CORRO OUT"
+            },
+            {
+              "date": "2020-07-31",
+              "status": "FILED",
+              "title": "Request Postpone Acceptance Acknowledgment 31-07-2020",
+              "type": "CORRO OUT"
+            },
+            {
+              "date": "2020-06-04",
+              "status": "FILED",
+              "title": "Direction to Request Examination 04-06-2020",
+              "type": "CORRO OUT"
+            },
+            {
+              "date": "2020-05-29",
+              "status": "FILED",
+              "title": "Standard Patent Application Filing Receipt 29-05-2020",
+              "type": "CORRO OUT"
+            },
+            {
+              "date": "2020-05-27",
+              "status": "FILED",
+              "title": "Abstract 27-05-2020 SPBI-0002234106",
+              "type": "ABSTRACT"
+            },
+            {
+              "date": "2020-05-27",
+              "status": "ACCEPTED",
+              "title": "Abstract as Accepted",
+              "type": "ABSTRACT"
+            },
+            {
+              "date": "2020-05-27",
+              "status": "FILED",
+              "title": "Claim 27-05-2020 SPBI-0002234106",
+              "type": "CLAIM"
+            },
+            {
+              "date": "2020-05-27",
+              "status": "FILED",
+              "title": "Cover Sheet App Std 27-05-2020 SPBI-0002234106",
+              "type": "OTHER"
+            },
+            {
+              "date": "2020-05-27",
+              "status": "FILED",
+              "title": "Description 27-05-2020 SPBI-0002234106",
+              "type": "DESCRIPTION"
+            },
+            {
+              "date": "2020-05-27",
+              "status": "FILED",
+              "title": "Drawing 27-05-2020 SPBI-0002234106",
+              "type": "DRAWING"
+            },
+            {
+              "date": "2020-05-27",
+              "status": "ACCEPTED",
+              "title": "Drawing as Accepted",
+              "type": "DRAWING"
+            },
+            {
+              "date": "2020-05-27",
+              "status": "FILED",
+              "title": "Patent Request 27-05-2020 SPBI-0002234106",
+              "type": "PATENT REQUEST"
+            }
+          ],
+          "name": "AusPat"
+        }
+      ],
+      "raw": {
+        "corrAppNum": "AU2020203489",
+        "country": "AU",
+        "id": "AU2020203489",
+        "internal": "false",
+        "list": [
+          {
+            "appDate": 1509681600000,
+            "appDateStr": "11/03/2017",
+            "appNum": "15803515",
+            "applicantNames": null,
+            "countryCode": "US",
+            "docList": null,
+            "docListMsg": null,
+            "docNum": {
+              "country": "US",
+              "date": "11/03/2017",
+              "docNumber": "201715803515",
+              "format": "original",
+              "kindCode": "A"
+            },
+            "ip5": true,
+            "kindCode": "A",
+            "priorityClaimList": [
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "15803515",
+                "kindCode": "A"
+              },
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A1",
+                "pubCountry": "US",
+                "pubDate": 1525320000000,
+                "pubDateStr": "05/03/2018",
+                "pubNum": "20180120947"
+              },
+              {
+                "kindCode": "B2",
+                "pubCountry": "US",
+                "pubDate": 1582606800000,
+                "pubDateStr": "02/25/2020",
+                "pubNum": "10572733"
+              }
+            ],
+            "title": null
+          },
+          {
+            "appDate": 1509681600000,
+            "appDateStr": "11/03/2017",
+            "appNum": "PCT/US17/59991",
+            "applicantNames": null,
+            "countryCode": "US",
+            "docList": null,
+            "docListMsg": null,
+            "docNum": {
+              "country": "US",
+              "date": "11/03/2017",
+              "docNumber": "2017059991",
+              "format": "original",
+              "kindCode": "W"
+            },
+            "ip5": true,
+            "kindCode": "W",
+            "priorityClaimList": [
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A1",
+                "pubCountry": "WO",
+                "pubDate": 1526011200000,
+                "pubDateStr": "05/11/2018",
+                "pubNum": "2018085691"
+              }
+            ],
+            "title": null
+          },
+          {
+            "appDate": 1509681600000,
+            "appDateStr": "11/03/2017",
+            "appNum": "17801554",
+            "applicantNames": null,
+            "countryCode": "EP",
+            "docList": null,
+            "docListMsg": null,
+            "docNum": {
+              "country": "EP",
+              "date": "11/03/2017",
+              "docNumber": "17801554",
+              "format": "docdb",
+              "kindCode": "A"
+            },
+            "ip5": true,
+            "kindCode": "A",
+            "priorityClaimList": [
+              {
+                "country": "US",
+                "docNumber": "PCT/US17/59991",
+                "kindCode": "W"
+              },
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A1",
+                "pubCountry": "EP",
+                "pubDate": 1568174400000,
+                "pubDateStr": "09/11/2019",
+                "pubNum": "3535645"
+              }
+            ],
+            "title": null
+          },
+          {
+            "appDate": 1509681600000,
+            "appDateStr": "11/03/2017",
+            "appNum": "201780081935",
+            "applicantNames": null,
+            "countryCode": "CN",
+            "docList": null,
+            "docListMsg": null,
+            "docNum": {
+              "country": "CN",
+              "date": "11/03/2017",
+              "docNumber": "201780081935",
+              "format": "docdb",
+              "kindCode": "A"
+            },
+            "ip5": true,
+            "kindCode": "A",
+            "priorityClaimList": [
+              {
+                "country": "US",
+                "docNumber": "PCT/US17/59991",
+                "kindCode": "W"
+              },
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A",
+                "pubCountry": "CN",
+                "pubDate": 1565668800000,
+                "pubDateStr": "08/13/2019",
+                "pubNum": "110121748"
+              },
+              {
+                "kindCode": "B",
+                "pubCountry": "CN",
+                "pubDate": 1646974800000,
+                "pubDateStr": "03/11/2022",
+                "pubNum": "110121748"
+              }
+            ],
+            "title": null
+          },
+          {
+            "appDate": 1509681600000,
+            "appDateStr": "11/03/2017",
+            "appNum": "3153493",
+            "applicantNames": null,
+            "countryCode": "CA",
+            "docList": null,
+            "docListMsg": null,
+            "docNum": {
+              "country": "CA",
+              "date": "11/03/2017",
+              "docNumber": "3153493",
+              "format": "docdb",
+              "kindCode": "A"
+            },
+            "ip5": false,
+            "kindCode": "A",
+            "priorityClaimList": [
+              {
+                "country": "CA",
+                "docNumber": "3042535",
+                "kindCode": "A"
+              },
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A1",
+                "pubCountry": "CA",
+                "pubDate": 1526011200000,
+                "pubDateStr": "05/11/2018",
+                "pubNum": "3153493"
+              }
+            ],
+            "title": null
+          },
+          {
+            "appDate": 1509681600000,
+            "appDateStr": "11/03/2017",
+            "appNum": "15803499",
+            "applicantNames": null,
+            "countryCode": "US",
+            "docList": null,
+            "docListMsg": null,
+            "docNum": {
+              "country": "US",
+              "date": "11/03/2017",
+              "docNumber": "201715803499",
+              "format": "original",
+              "kindCode": "A"
+            },
+            "ip5": true,
+            "kindCode": "A",
+            "priorityClaimList": [
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "15803499",
+                "kindCode": "A"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A1",
+                "pubCountry": "US",
+                "pubDate": 1525320000000,
+                "pubDateStr": "05/03/2018",
+                "pubNum": "20180121728"
+              },
+              {
+                "kindCode": "B2",
+                "pubCountry": "US",
+                "pubDate": 1586836800000,
+                "pubDateStr": "04/14/2020",
+                "pubNum": "10621436"
+              }
+            ],
+            "title": null
+          },
+          {
+            "appDate": 1509681600000,
+            "appDateStr": "11/03/2017",
+            "appNum": "202210186477",
+            "applicantNames": null,
+            "countryCode": "CN",
+            "docList": null,
+            "docListMsg": null,
+            "docNum": {
+              "country": "CN",
+              "date": "11/03/2017",
+              "docNumber": "202210186477",
+              "format": "docdb",
+              "kindCode": "A"
+            },
+            "ip5": true,
+            "kindCode": "A",
+            "priorityClaimList": [
+              {
+                "country": "US",
+                "docNumber": "PCT/US17/59991",
+                "kindCode": "W"
+              },
+              {
+                "country": "CN",
+                "docNumber": "201780081935",
+                "kindCode": "A"
+              },
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A",
+                "pubCountry": "CN",
+                "pubDate": 1653624000000,
+                "pubDateStr": "05/27/2022",
+                "pubNum": "114550874"
+              }
+            ],
+            "title": null
+          },
+          {
+            "appDate": 1509681600000,
+            "appDateStr": "11/03/2017",
+            "appNum": "2017355505",
+            "applicantNames": null,
+            "countryCode": "AU",
+            "docList": null,
+            "docListMsg": null,
+            "docNum": {
+              "country": "AU",
+              "date": "11/03/2017",
+              "docNumber": "2017355505",
+              "format": "docdb",
+              "kindCode": "A"
+            },
+            "ip5": false,
+            "kindCode": "A",
+            "priorityClaimList": [
+              {
+                "country": "US",
+                "docNumber": "PCT/US17/59991",
+                "kindCode": "W"
+              },
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A1",
+                "pubCountry": "AU",
+                "pubDate": 1559188800000,
+                "pubDateStr": "05/30/2019",
+                "pubNum": "2017355505"
+              },
+              {
+                "kindCode": "B2",
+                "pubCountry": "AU",
+                "pubDate": 1582779600000,
+                "pubDateStr": "02/27/2020",
+                "pubNum": "2017355505"
+              }
+            ],
+            "title": null
+          },
+          {
+            "appDate": 1509681600000,
+            "appDateStr": "11/03/2017",
+            "appNum": "3042535",
+            "applicantNames": null,
+            "countryCode": "CA",
+            "docList": null,
+            "docListMsg": null,
+            "docNum": {
+              "country": "CA",
+              "date": "11/03/2017",
+              "docNumber": "3042535",
+              "format": "docdb",
+              "kindCode": "A"
+            },
+            "ip5": false,
+            "kindCode": "A",
+            "priorityClaimList": [
+              {
+                "country": "US",
+                "docNumber": "PCT/US17/59991",
+                "kindCode": "W"
+              },
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A1",
+                "pubCountry": "CA",
+                "pubDate": 1526011200000,
+                "pubDateStr": "05/11/2018",
+                "pubNum": "3042535"
+              },
+              {
+                "kindCode": "C",
+                "pubCountry": "CA",
+                "pubDate": 1652760000000,
+                "pubDateStr": "05/17/2022",
+                "pubNum": "3042535"
+              }
+            ],
+            "title": null
+          },
+          {
+            "appDate": 1583899200000,
+            "appDateStr": "03/11/2020",
+            "appNum": "16815466",
+            "applicantNames": null,
+            "countryCode": "US",
+            "docList": null,
+            "docListMsg": null,
+            "docNum": {
+              "country": "US",
+              "date": "03/11/2020",
+              "docNumber": "202016815466",
+              "format": "original",
+              "kindCode": "A"
+            },
+            "ip5": true,
+            "kindCode": "A",
+            "priorityClaimList": [
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "15803499",
+                "kindCode": "A"
+              },
+              {
+                "country": "US",
+                "docNumber": "16815466",
+                "kindCode": "A"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A1",
+                "pubCountry": "US",
+                "pubDate": 1599105600000,
+                "pubDateStr": "09/03/2020",
+                "pubNum": "20200279112"
+              },
+              {
+                "kindCode": "B2",
+                "pubCountry": "US",
+                "pubDate": 1637038800000,
+                "pubDateStr": "11/16/2021",
+                "pubNum": "11176376"
+              }
+            ],
+            "title": null
+          },
+          {
+            "appDate": 1590552000000,
+            "appDateStr": "05/27/2020",
+            "appNum": "2020203489",
+            "applicantNames": null,
+            "countryCode": "AU",
+            "docList": {
+              "applicantNames": [
+                "Zimmer US, Inc., "
+              ],
+              "country": "AU",
+              "docNumber": "2020203489.A",
+              "docs": [
+                {
+                  "docCode": "CORRO OUT",
+                  "docCodeDesc": "No document group defined for this document",
+                  "docDesc": "CORRO OUT",
+                  "docFormat": "PDF",
+                  "docGroupCode": "unknown",
+                  "docId": "29041982",
+                  "legalDate": 1637730000000,
+                  "legalDateStr": "11/24/2021",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "CLAIM",
+                  "docCodeDesc": "Application Documents",
+                  "docDesc": "Claims",
+                  "docFormat": "PDF",
+                  "docGroupCode": "1",
+                  "docId": "29031085",
+                  "legalDate": 1637643600000,
+                  "legalDateStr": "11/23/2021",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "DESCRIPTION",
+                  "docCodeDesc": "Application Documents",
+                  "docDesc": "Description",
+                  "docFormat": "PDF",
+                  "docGroupCode": "1",
+                  "docId": "29030958",
+                  "legalDate": 1637643600000,
+                  "legalDateStr": "11/23/2021",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "AMENDMENT",
+                  "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                  "docDesc": "Amendment",
+                  "docFormat": "PDF",
+                  "docGroupCode": "4",
+                  "docId": "28885902",
+                  "legalDate": 1635220800000,
+                  "legalDateStr": "10/26/2021",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "AMENDMENT",
+                  "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                  "docDesc": "Amendment",
+                  "docFormat": "PDF",
+                  "docGroupCode": "4",
+                  "docId": "28885904",
+                  "legalDate": 1635220800000,
+                  "legalDateStr": "10/26/2021",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "AMENDMENT",
+                  "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                  "docDesc": "Amendment",
+                  "docFormat": "PDF",
+                  "docGroupCode": "4",
+                  "docId": "28885905",
+                  "legalDate": 1635220800000,
+                  "legalDateStr": "10/26/2021",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "AMENDMENT",
+                  "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                  "docDesc": "Amendment",
+                  "docFormat": "PDF",
+                  "docGroupCode": "4",
+                  "docId": "28885906",
+                  "legalDate": 1635220800000,
+                  "legalDateStr": "10/26/2021",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "AMENDMENT",
+                  "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                  "docDesc": "Amendment",
+                  "docFormat": "PDF",
+                  "docGroupCode": "4",
+                  "docId": "28885907",
+                  "legalDate": 1635220800000,
+                  "legalDateStr": "10/26/2021",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "AMENDMENT",
+                  "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                  "docDesc": "Amendment",
+                  "docFormat": "PDF",
+                  "docGroupCode": "4",
+                  "docId": "28885903",
+                  "legalDate": 1635220800000,
+                  "legalDateStr": "10/26/2021",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "AMENDMENT",
+                  "docCodeDesc": "Written Arguments, Opinions, Incoming amendments, Papers received from applicants",
+                  "docDesc": "Amendment",
+                  "docFormat": "PDF",
+                  "docGroupCode": "4",
+                  "docId": "28885908",
+                  "legalDate": 1635220800000,
+                  "legalDateStr": "10/26/2021",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "EXAM CORRO",
+                  "docCodeDesc": "No document group defined for this document",
+                  "docDesc": "EXAM CORRO",
+                  "docFormat": "PDF",
+                  "docGroupCode": "unknown",
+                  "docId": "27504175",
+                  "legalDate": 1613710800000,
+                  "legalDateStr": "02/19/2021",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "ABSTRACT",
+                  "docCodeDesc": "Application Documents",
+                  "docDesc": "Abstract",
+                  "docFormat": "PDF",
+                  "docGroupCode": "1",
+                  "docId": "25248770",
+                  "legalDate": 1590552000000,
+                  "legalDateStr": "05/27/2020",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "ABSTRACT",
+                  "docCodeDesc": "Application Documents",
+                  "docDesc": "Abstract",
+                  "docFormat": "PDF",
+                  "docGroupCode": "1",
+                  "docId": "29035291",
+                  "legalDate": 1590552000000,
+                  "legalDateStr": "05/27/2020",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "CLAIM",
+                  "docCodeDesc": "Application Documents",
+                  "docDesc": "Claims",
+                  "docFormat": "PDF",
+                  "docGroupCode": "1",
+                  "docId": "25248772",
+                  "legalDate": 1590552000000,
+                  "legalDateStr": "05/27/2020",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "DESCRIPTION",
+                  "docCodeDesc": "Application Documents",
+                  "docDesc": "Description",
+                  "docFormat": "PDF",
+                  "docGroupCode": "1",
+                  "docId": "25248771",
+                  "legalDate": 1590552000000,
+                  "legalDateStr": "05/27/2020",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "DRAWING",
+                  "docCodeDesc": "Application Documents",
+                  "docDesc": "DRAWING",
+                  "docFormat": "PDF",
+                  "docGroupCode": "1",
+                  "docId": "25248769",
+                  "legalDate": 1590552000000,
+                  "legalDateStr": "05/27/2020",
+                  "numberOfPages": 0,
+                  "shareable": false
+                },
+                {
+                  "docCode": "DRAWING",
+                  "docCodeDesc": "Application Documents",
+                  "docDesc": "DRAWING",
+                  "docFormat": "PDF",
+                  "docGroupCode": "1",
+                  "docId": "29035293",
+                  "legalDate": 1590552000000,
+                  "legalDateStr": "05/27/2020",
+                  "numberOfPages": 0,
+                  "shareable": false
+                }
+              ],
+              "message": null,
+              "oaIndCount": 0,
+              "officeActionDocs": [],
+              "title": "AUGMENTED REALITY THERAPEUTIC MOVEMENT DISPLAY AND GESTURE ANALYZER"
+            },
+            "docListMsg": null,
+            "docNum": {
+              "country": "AU",
+              "date": "05/27/2020",
+              "docNumber": "2020203489",
+              "format": "docdb",
+              "kindCode": "A"
+            },
+            "ip5": false,
+            "kindCode": "A",
+            "priorityClaimList": [
+              {
+                "country": "US",
+                "docNumber": "PCT/US17/59991",
+                "kindCode": "W"
+              },
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "AU",
+                "docNumber": "2020203489",
+                "kindCode": "A"
+              },
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              },
+              {
+                "country": "AU",
+                "docNumber": "2017355505",
+                "kindCode": "A"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A1",
+                "pubCountry": "AU",
+                "pubDate": 1592452800000,
+                "pubDateStr": "06/18/2020",
+                "pubNum": "2020203489"
+              },
+              {
+                "kindCode": "B2",
+                "pubCountry": "AU",
+                "pubDate": 1639026000000,
+                "pubDateStr": "12/09/2021",
+                "pubNum": "2020203489"
+              }
+            ],
+            "title": null
+          },
+          {
+            "appDate": 1645765200000,
+            "appDateStr": "02/25/2022",
+            "appNum": "2022201300",
+            "applicantNames": null,
+            "countryCode": "AU",
+            "docList": null,
+            "docListMsg": null,
+            "docNum": {
+              "country": "AU",
+              "date": "02/25/2022",
+              "docNumber": "2022201300",
+              "format": "docdb",
+              "kindCode": "A"
+            },
+            "ip5": false,
+            "kindCode": "A",
+            "priorityClaimList": [
+              {
+                "country": "US",
+                "docNumber": "PCT/US17/59991",
+                "kindCode": "W"
+              },
+              {
+                "country": "US",
+                "docNumber": "62421001",
+                "kindCode": "P"
+              },
+              {
+                "country": "AU",
+                "docNumber": "2020203489",
+                "kindCode": "A"
+              },
+              {
+                "country": "AU",
+                "docNumber": "2022201300",
+                "kindCode": "A"
+              },
+              {
+                "country": "US",
+                "docNumber": "62416869",
+                "kindCode": "P"
+              },
+              {
+                "country": "US",
+                "docNumber": "62440588",
+                "kindCode": "P"
+              },
+              {
+                "country": "AU",
+                "docNumber": "2017355505",
+                "kindCode": "A"
+              }
+            ],
+            "pubList": [
+              {
+                "kindCode": "A1",
+                "pubCountry": "AU",
+                "pubDate": 1648094400000,
+                "pubDateStr": "03/24/2022",
+                "pubNum": "2022201300"
+              }
+            ],
+            "title": null
+          }
+        ],
+        "type": "application"
+      }
     }
   ],
   "profile": {
